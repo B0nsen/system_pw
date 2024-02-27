@@ -1,0 +1,5 @@
+﻿cl : командная строка  warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  ParentProcessDlg.cpp
+C:\Users\oitut\source\repos\ParentProcess\ParentProcess\ParentProcessDlg.cpp(2,1): warning C4005: _UNICODE: изменение макроопределения
+C:\Users\oitut\source\repos\ParentProcess\ParentProcess\ParentProcessDlg.cpp(2,1): message : "_UNICODE" ранее объявлен в командной строке
+  ParentProcess.vcxproj -> C:\Users\oitut\source\repos\ParentProcess\Debug\ParentProcess.exe
